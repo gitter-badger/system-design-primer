@@ -2,6 +2,8 @@
 
 # The System Design Primer
 
+[![Join the chat at https://gitter.im/system-design-primer-ukrainian/community](https://badges.gitter.im/system-design-primer-ukrainian/community.svg)](https://gitter.im/system-design-primer-ukrainian/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <p align="center">
   <img src="http://i.imgur.com/jj3A5N8.png">
   <br/>
